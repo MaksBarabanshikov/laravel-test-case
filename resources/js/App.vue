@@ -1,3 +1,10 @@
+<script setup>
+import Header from "./src/components/Header.vue";
+import Hero from "./src/components/Hero.vue";
+</script>
 <template>
-    Vue 3 in Laravel 9 with Vite
+    <Header/>
+    <main class="">
+        <Hero/>
+    </main>
 </template>

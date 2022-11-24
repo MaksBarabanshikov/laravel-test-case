@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+//bootstrap 5 beta
+
+@import 'bootstrap/scss/bootstrap';
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+// header
+@import "modules/header";
+
+// hero section
+@import "modules/hero";
+
+// article
+@import "modules/article";
